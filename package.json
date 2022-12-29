@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Speech Commands",
   "dependencies": [
-      "com.zacharysnewman.ansible-events": "https://github.com/zacharysnewman/ansible-events.git"
+    { "com.zacharysnewman.ansible-events": "https://github.com/zacharysnewman/ansible-events.git" }
   ],
   "description": "Cross-platform speech command recognition for Windows and MacOS.",
   "keywords": [
