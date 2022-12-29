@@ -1,3 +1,3 @@
-# Splitscreen
+# Speech Commands
 
-  Provides basic splitscreen camera management for a Unity project.
+ Cross-platform speech command recognition for Windows and MacOS.

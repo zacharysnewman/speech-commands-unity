@@ -1,17 +1,17 @@
 {
-  "name": "com.zacharysnewman.splitscreen",
+  "name": "com.zacharysnewman.speech-commands",
   "version": "1.0.0",
-  "displayName": "Splitscreen",
+  "displayName": "Speech Commands",
   "dependencies": [
       "com.zacharysnewman.ansible-events": "https://github.com/zacharysnewman/ansible-events.git"
   ],
-  "description": "Provides basic splitscreen camera management for a Unity project.",
+  "description": "Cross-platform speech command recognition for Windows and MacOS.",
   "keywords": [
-    "splitscreen",
-    "split",
-    "screen",
-    "local",
-    "multiplayer"
+    "speech",
+    "commands",
+    "recognition",
+    "MacOS",
+    "Windows"
   ],
   "author": {
     "name": "zacharysnewman",
