@@ -1,0 +1,21 @@
+{
+  "name": "com.zacharysnewman.splitscreen",
+  "version": "1.0.0",
+  "displayName": "Splitscreen",
+  "dependencies": [
+      "com.zacharysnewman.ansible-events": "https://github.com/zacharysnewman/ansible-events.git"
+  ],
+  "description": "Provides basic splitscreen camera management for a Unity project.",
+  "keywords": [
+    "splitscreen",
+    "split",
+    "screen",
+    "local",
+    "multiplayer"
+  ],
+  "author": {
+    "name": "zacharysnewman",
+    "url": "https://github.com/zacharysnewman"
+  },
+  "type": "library"
+}

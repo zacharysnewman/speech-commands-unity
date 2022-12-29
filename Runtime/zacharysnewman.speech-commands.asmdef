@@ -1,0 +1,16 @@
+{
+    "name": "zacharysnewman.speech-commands",
+    "rootNamespace": "",
+    "references": [
+        "zacharysnewman.ansible-events"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
